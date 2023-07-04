@@ -20,4 +20,4 @@ Acceptance will be determined by the business based on accuracy of the model upo
 
 # Credit Scoring Approach
 
-![Credit](./Screenshot 2023-07-04 at 12.46.39.png)
+![Credit](./credit.png)
