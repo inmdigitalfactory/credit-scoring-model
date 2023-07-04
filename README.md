@@ -17,3 +17,7 @@ Datasets(BLO3 & BLO5) are exclusive to loans data for the year 2022:
 
 # Acceptance Criteria:
 Acceptance will be determined by the business based on accuracy of the model upon experimentation. However, predictions churned out by the model MUST perform better than current system being used by business.
+
+# Credit Scoring Approach
+
+![Credit](./Screenshot 2023-07-04 at 12.46.39.png)
