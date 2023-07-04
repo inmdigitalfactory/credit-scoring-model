@@ -1,4 +1,7 @@
 # credit-scoring-model
+
+![Headline](./headline.png)
+
 Analytics model to predict the probability a customer will default on loan repayment.
 
 The aim is to have a model that can accurately predict probability of default on loan repayment in order to proactively take steps and measures to avert this.
