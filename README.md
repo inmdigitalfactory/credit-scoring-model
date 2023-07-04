@@ -24,3 +24,27 @@ Acceptance will be determined by the business based on accuracy of the model upo
 # Credit Scoring Approach
 
 ![Credit](./credit.png)
+
+# Exploratory Data Analysis.
+
+Exploratory Data Analysis (EDA) is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods as shown below:
+
+![Profile](./profile.png)
+### 2022 DATA -- PERFORMING VS NON-PERFORMING LOANS %
+![Pie Chart](./pie_chart.png)
+### AGE RANGE VS OTG
+![Age](./Age.png)
+### AGE WITH BANK VS OTG
+![Bank](./Age_With_Bank.png)
+### NO. OF LOAN ACCOUNTS VS OTG
+![Loan](./Loan.png)
+### NO. OF NON LOAN ACCOUNTS VS OTG
+![Non_Loan](./Non_Loan.png)
+### AVERAGE MEDIAN CREDIT AMOUNT 6 MONTHS VS DEFAULT STATUS
+![Credit](./Cred.png)
+### AVERAGE MEDIAN END OF DAY BALANCE 6 MONTHS VS DEFAULT STATUS
+![Median](./Median.png)
+### AVERAGE MEDIAN DEBIT AMOUNT 6 MONTHS VS DEFAULT STATUS
+![Debit](./Debit.png)
+### AVERAGE/MEDIAN CREDIT TO DEBIT AMOUNT RATIO VS DEFAUL STATUS
+![Ratio](./Ratio.png)
